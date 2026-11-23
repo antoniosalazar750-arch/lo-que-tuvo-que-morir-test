@@ -5,7 +5,7 @@
 window.APP = {
   config: {
     wa: "522281400875",                 // WhatsApp con lada de país, sin + ni espacios
-    endpoint: "",                       // URL del Apps Script (registro y métricas). Vacío = no se guarda nada
+    endpoint: "",                       "https://script.google.com/macros/s/AKfycbwSet_zJX6yJHQPueAMhPKmGIZPCQPzsiCXHCN1N5HAhbYzC7wmN6oATssE6WPLCT-O/exec",
     comunidad: "",                      // Enlace de invitación a la comunidad 12.2 (opcional)
     privacidad: "",                     // Enlace al aviso de privacidad completo (recomendado)
     sitio: "lo-que-tuvo-que-morir-test.vercel.app", // Dirección que aparece en la tarjeta para historias
